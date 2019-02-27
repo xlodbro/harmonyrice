@@ -1,7 +1,7 @@
-# Harmony
-[![](https://i.imgur.com/fnMVDMm.png)](https://i.imgur.com/fnMVDMm.png)
-***/ˈhärmənē/***
-*forming a pleasing or consistent whole.*
+# Harmony  
+[![](https://i.imgur.com/fnMVDMm.png)](https://i.imgur.com/fnMVDMm.png)  
+***/ˈhärmənē/***  
+*forming a pleasing or consistent whole.*  
 ![](https://i.redd.it/rngro1z1tzi21.png)
 ## Resources Used
 - [Openbox](https://github.com/danakj/openboxhttp:// "Openbox")
